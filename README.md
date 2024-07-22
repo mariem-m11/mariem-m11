@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm Mariem, an enthusiastic Computer Networks and 
 - **Location:** Tunis, Tunisia
 - **Studies:** Computer Networks and Telecommunications Engineering, INSAT
 - **Languages:** Arabic (Native), English (Fluent), French (Advanced), German (Beginner)
-- **Contact:** [Email](mailto:mariem.makni@insat.ucar.tn) | [LinkedIn](https://www.linkedin.com/in/makni-mariem-6777861b6/) | [Medium]([https://medium.com/@maknimariem11])
+- **Contact:** [Email](mailto:mariem.makni@insat.ucar.tn) | [LinkedIn](https://www.linkedin.com/in/makni-mariem-6777861b6/) | [Medium](https://medium.com/@maknimariem11)
 
 ## Skills
 
