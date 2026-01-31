@@ -1,6 +1,6 @@
 # Mariem Makni
 
-Welcome to my GitHub profile! I'm Mariem, an enthusiastic Computer Networks and Telecommunications engineering student at the National Institute of Applied Sciences and Technology, Tunis. I specialize in image processing and have a deep interest in the application of machine learning and artificial intelligence in healthcare and other real-world problems.
+Welcome to my GitHub profile! I'm Mariem ^^ I graduated as a Computer Networks and Telecommunications engineer from the National Institute of Applied Sciences and Technology, Tunis. And currently work as a software engineer at credium. I have a deep interest in applying machine learning and artificial intelligence in healthcare and other real-world problems, and always welcome collaborations! + I'm super interested in research, so please reach out if you have an opportunity/idea ^^
 
 ## About Me
 
